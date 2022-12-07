@@ -1,0 +1,25 @@
+[
+  {
+    "title": "eText Marin",
+    "productId": "etextmarin",
+    "destinations" : [
+        {
+          "name" : "eTextMarin_Email",
+          "type" : "email",
+          "id" : "c7a43006-c518-4721-8cba-b830e7ffea61"
+        }
+    ]
+  },
+  {
+    "title": "Pearson Prep",
+    "productId": "pearsonprep",
+    "destinations" : [
+      {
+        "name" : "pp_Email",
+        "type" : "email",
+        "id" : "c7a43006-c518-4721-8cba-b830e7ffea61"
+      }
+  ]
+  }
+]
+  
